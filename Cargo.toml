@@ -2,6 +2,15 @@
 name = "vailence"
 version = "0.1.0"
 edition = "2021"
+authors = ["Zmole Cristian <chiarel@tragdate.ninja>"]
+description = "VaiLENCE is a command-line utility designed for detecting violence or threats by leveraging the OpenAI omni-moderation model."
+license = "BSD-3-Clause"
+documentation = "https://github.com/ZmoleCristian/VaiLENCE"
+repository = "https://github.com/ZmoleCristian/VaiLENCE"
+homepage = "https://tragdate.ninja"
+readme = "README.md"
+categories = ["api-bindings"]
+
 
 [dependencies]
 openssl = { version="0.10.68", features=["vendored"] }
