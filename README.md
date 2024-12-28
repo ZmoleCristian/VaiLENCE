@@ -105,7 +105,7 @@ vailence [OPTIONS]
 
 #### Basic File Processing
 
-To process a file named  input.txt  and write the output to  output.json , while setting a severity threshold of  0.05 :
+To process a file named  input.txt  and write the output to  output.json , while setting a severity threshold of  `0.05`:
 ```bash
 vailence -i input.txt -o output.json -s 0.05
 ```
